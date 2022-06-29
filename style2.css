@@ -1,0 +1,45 @@
+#comeco {
+    background-color: black;
+    height: 150px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: purple;
+}
+
+#usuario {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+#conta {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+
+#help {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+#amigo {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+h2 {
+
+    color: white;
+    margin-left: 50%;
+    margin-top: 7%;
+}

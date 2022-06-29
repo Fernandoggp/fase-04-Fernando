@@ -1,0 +1,46 @@
+.comeco {
+    display: flex;
+    background-color: black;
+    height: 100%;
+    text-align: left
+}
+
+h1 {
+    margin-left: 60%;
+    margin-top: 5%;
+    text-align: right;
+    color: white;
+    margin-right: 30px;
+}
+
+
+
+
+body {
+    background-color: purple;
+    text-align: center;
+    content: none;
+}
+
+form {
+    margin-top: 150px;
+}
+
+input {
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    width: 20%;
+    height: 50px;
+}
+
+
+
+div#rodape {
+    border-radius: 7px;
+    text-align: right;
+    margin: 1000px 0px 0px 0px;
+}
